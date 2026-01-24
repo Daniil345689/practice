@@ -35,7 +35,7 @@ export const login = {
                 });
         },
     },
-template: 
+template: `
     <div class="flex">
         <msg ref="msg"/>
 
@@ -76,5 +76,4 @@ template:
         </div>
     </div>
 
-};
-
+`};
