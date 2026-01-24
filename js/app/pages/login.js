@@ -71,9 +71,10 @@ template:
                     <div class="row">
                         <button class="btn">Sign in</button>
                     </div>
-                </form>
+                </form>                                                               
             </div>
         </div>
     </div>
 
 };
+
